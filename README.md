@@ -22,7 +22,7 @@
 - 💻 Passionate about **building projects**, **learning new technologies**, and **solving problems**  
 - 🌱 Currently focusing on: **Web Development / Programming / Open Source**   
 - 🚀 Looking to improve my skills through **projects, internships, and collaborations**  
-- 📫 How to reach me: **swarupsurwase68@gmail.com**  
+- 📫 How to reach me: **nishantpawar524@gmail.com**  
 - ⚡ Fun fact: **I enjoy turning ideas into working code and learning from mistakes**
 
 ---
